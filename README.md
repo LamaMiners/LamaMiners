@@ -25,7 +25,7 @@
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamaminers&show_icons=true&theme=radical)
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamaminers&show_icons=true&theme=radical)-->
 
 
 <!--![Snake animation](https://github.com/lamaminers/lamaminers/blob/output/github-contribution-grid-snake.svg)-->
